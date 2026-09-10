@@ -1,0 +1,7 @@
+{
+  "model_name": "qwen:7b",
+  "knowledge_base_dir": "data",
+  "db_path": "data/vector_store",
+  "max_context_chars": 2000,
+  "system_prompt": "You are an AI Student Support Assistant. Your role is to answer student questions about syllabus, regulations, FAQs, and notices. Always use the provided context first. If context is missing, politely say you don't know. Be concise, accurate, and supportive."
+}

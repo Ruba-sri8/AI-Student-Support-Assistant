@@ -1,0 +1,10 @@
+Course Syllabus Overview
+
+- Introduction to Python Programming
+- Database Fundamentals
+- Web Development Basics
+- Research and Presentation Skills
+- Final assessment includes quizzes, assignments, and a project.
+- Attendance requirement: students must maintain at least 75% attendance.
+
+Students should complete weekly assignments and prepare for labs. The academic calendar is published at the start of each semester.

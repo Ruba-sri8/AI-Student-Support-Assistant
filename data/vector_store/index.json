@@ -1,0 +1,22 @@
+[
+  {
+    "source": "faqs.txt",
+    "content": "Frequently Asked Questions\n\nQ: How do I request a leave of absence?\nA: Submit the leave application through the student portal and get approval from the academic advisor.\n\nQ: Where can I check my exam timetable?\nA: The timetable is published on the student portal and notices board.\n\nQ: Can I submit a project late?\nA: Late submission is allowed only with tutor approval and may incur a grade penalty."
+  },
+  {
+    "source": "faqs.txt",
+    "content": " project late?\nA: Late submission is allowed only with tutor approval and may incur a grade penalty.Q: What should I do if I miss a class?\nA: Review the lecture notes, contact the lecturer, and catch up on any missed work."
+  },
+  {
+    "source": "notices.txt",
+    "content": "Campus Notices\n\n- The library will remain open until 9:00 PM during examination week.\n- Students should check the official email for updates about deadlines and cancellations.\n- The workshop registration form is now open for all interested students.\n- Technical support can be reached through the student help desk during office hours."
+  },
+  {
+    "source": "regulations.txt",
+    "content": "Academic Regulations\n\n- Students must submit assignments before the stated deadline.\n- For late submissions, approval from the course tutor is required.\n- Cheating, plagiarism, or unauthorized collaboration is strictly prohibited.\n- Students are expected to maintain respectful conduct in classes and online forums.\n- During examinations, mobile phones and unauthorized material are not allowed.\n- Students should carry their student ID card at all times during institutional activities."
+  },
+  {
+    "source": "syllabus.txt",
+    "content": "Course Syllabus Overview\n\n- Introduction to Python Programming\n- Database Fundamentals\n- Web Development Basics\n- Research and Presentation Skills\n- Final assessment includes quizzes, assignments, and a project.\n- Attendance requirement: students must maintain at least 75% attendance.\n\nStudents should complete weekly assignments and prepare for labs. The academic calendar is published at the start of each semester."
+  }
+]
